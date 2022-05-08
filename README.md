@@ -28,7 +28,8 @@ Because of this drawback, students are not focusing on content due to lack of su
 
 We will solve the above-mentioned challenge by applying deep learning algorithms to live video data. The solution to this problem is by recognizing facial emotions.
 
-Presentation link - https://github.com/Aayushi-Sharma24/Face_Emotion_Recognition/blob/main/Face_Emotion_Recognition-Presentation.pdf
+Presentation link - https://drive.google.com/drive/folders/1dsbYpvk0AYxdmw0cKBByUz_lohq-LXYA?usp=sharing
+
 
 ## Dataset Information
 The model is trained on the FER-2013 dataset .This dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions - angry, disgusted, fearful, happy, neutral, sad and surprised. Here is the dataset link:- https://www.kaggle.com/msambare/fer2013
@@ -91,7 +92,7 @@ The training accuracy obtained from this model is 66.64% and validation accuracy
 
 For this project I have made a front end application using streamlit .Streamlit doesn’t provide the live capture feature itself, instead uses a third party API. Therefore, used streamlit-webrtc which helped to deal with real-time video streams. Image captured from the webcam is sent to FaceEmotion function to detect the emotion. Then this model was deployed on heroku.
 
-App Link deployed on Heroku- https://face-emotion-recognition-app.herokuapp.com/
+App Link deployed on Heroku- https://face-detector-almabetter.herokuapp.com/
 
 ### Basic Requirements to deploy on heroku
 * Procfile
