@@ -106,5 +106,5 @@ The model created with CNN layers gave training accuracy of 66.64% and validatio
 
 Drawback- not classifying well on disgust images.
 
-Link of Demo video(working in local) - https://github.com/Aayushi-Sharma24/Face_Emotion_Recognition/blob/main/Face_Emotion_recognition-Working_Demo.mp4
+Link of Demo video(working in local) - https://drive.google.com/drive/folders/1armAZ5A_DqqbuP--Px-h55-Tvi38JcsL?usp=sharing
 
